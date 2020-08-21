@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_buttons_buttons",
+  "info": {
+    "name": "button",
+    "icon": "arrow-circle-down"
+  },
+  "options": {},
+  "attributes": {
+    "textButton": {
+      "type": "string"
+    },
+    "targetLink": {
+      "type": "string"
+    },
+    "colorButton": {
+      "type": "string"
+    },
+    "styleSection": {
+      "type": "string"
+    }
+  }
+}

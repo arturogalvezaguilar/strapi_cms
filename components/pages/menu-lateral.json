@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_pages_menu_laterals",
+  "info": {
+    "name": "menuLateral",
+    "icon": "angle-down"
+  },
+  "options": {},
+  "attributes": {
+    "option": {
+      "type": "string"
+    },
+    "targetLink": {
+      "type": "string"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "collectionName": "components_pages_resumen",
+  "info": {
+    "name": "Resumen",
+    "icon": "baby"
+  },
+  "options": {},
+  "attributes": {
+    "backgroundImage": {
+      "collection": "file",
+      "via": "related",
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos"
+      ],
+      "plugin": "upload",
+      "required": false
+    },
+    "LessonsMiniature": {
+      "type": "component",
+      "repeatable": false,
+      "component": "pages.lessons-miniature"
+    }
+  }
+}

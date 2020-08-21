@@ -1,0 +1,27 @@
+{
+  "collectionName": "components_pages_lessons_miniatures",
+  "info": {
+    "name": "LessonsMiniature",
+    "icon": "arrow-alt-circle-down"
+  },
+  "options": {},
+  "attributes": {
+    "miniatureImage": {
+      "model": "file",
+      "via": "related",
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos"
+      ],
+      "plugin": "upload",
+      "required": false
+    },
+    "points": {
+      "type": "string"
+    },
+    "lessonNumber": {
+      "type": "string"
+    }
+  }
+}

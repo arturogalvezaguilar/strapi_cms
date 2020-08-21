@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_datos_maestros_operators",
+  "info": {
+    "name": "operator",
+    "icon": "angle-right"
+  },
+  "options": {},
+  "attributes": {
+    "nameOperator": {
+      "type": "string"
+    }
+  }
+}

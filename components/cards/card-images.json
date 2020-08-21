@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_cards_card_images",
+  "info": {
+    "name": "cardImages",
+    "icon": "arrow-right"
+  },
+  "options": {},
+  "attributes": {
+    "image": {
+      "collection": "file",
+      "via": "related",
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos"
+      ],
+      "plugin": "upload",
+      "required": false
+    }
+  }
+}

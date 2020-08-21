@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_pages_juego_imagenes",
+  "info": {
+    "name": "JuegoImagenes",
+    "icon": "angle-double-down"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "cardImages": {
+      "type": "component",
+      "repeatable": true,
+      "component": "cards.card-images"
+    }
+  }
+}
